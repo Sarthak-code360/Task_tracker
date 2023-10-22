@@ -15,6 +15,6 @@ The goal of a mobile Todo app is to help users stay organized, increase producti
 ![image](https://github.com/Sarthak-code360/ReactNativeApp/assets/74900672/9205fd7b-2205-4202-b93c-3647dd5f4c0a)
 
 
-[Video](https://drive.google.com/file/d/1LnWb0X4ruZv8cCAwuJQw-htFRgpPs02W/view?usp=sharing)
+### Sample Video: [Click Me](https://drive.google.com/file/d/1LnWb0X4ruZv8cCAwuJQw-htFRgpPs02W/view?usp=sharing)
 
 
